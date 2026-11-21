@@ -25,6 +25,8 @@ Updates show up in `/xlplugins` like any other plugin.
 
 **Lili's Little Tricks** (`/llt`) has small tricks for the game itself, also one toggle each and all off at first. The first one logs you into your last character when the game starts and again after a disconnect. Log in by hand once so it knows who you are, and hold Shift on the title screen if you want to stop it. VIWI's AutoLogin sends everyone in NA to Aether since patch 7.58. This one doesn't. If a future patch breaks the Data Center again, you can pick yours by hand in the window.
 
+**Lili's Probe** (`/llpr`) is for friends who test the others with me. It records what your character does to a file on your PC and never touches the game or the internet. When something looks wrong, open `/llpr`, write what happened, pick when it happened (it can be a while ago) and press Report. Later press Export and send me the .zip it makes. Your character name, world and Windows user name are swapped out of that file. Recordings older than 7 days are deleted on their own, and you can change that in the window.
+
 ## Good to know
 
 Automation breaks the game's terms of service. Use it with moderation, and don't leave it running for hours while you're away.
