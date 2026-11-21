@@ -9,7 +9,7 @@ If you got here some other way: feedback and criticism are welcome, but I don't 
 1. In game, type `/xlsettings` and open the **Experimental** tab.
 2. Under **Custom Plugin Repositories**, paste this link and click the **+**:
    ```
-   https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/repo.json
+   https://raw.githubusercontent.com/ThePoyer/lilis-plugins/main/repo.json
    ```
 3. Click **Save and Close**, then open `/xlplugins` and search for "Lili".
 

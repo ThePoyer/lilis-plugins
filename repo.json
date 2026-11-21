@@ -16,14 +16,14 @@
     "LoadPriority": 0,
     "Punchline": "FATE farming that moves like a person.",
     "AcceptsFeedback": true,
-    "RepoUrl": "https://github.com/ThePoyer/LilisPlugins",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisFate/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisFate/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisFate/latest.zip",
+    "RepoUrl": "https://github.com/ThePoyer/lilis-plugins",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/ThePoyer/lilis-plugins/main/plugins/LilisFate/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/ThePoyer/lilis-plugins/main/plugins/LilisFate/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/ThePoyer/lilis-plugins/main/plugins/LilisFate/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
     "LastUpdate": 1795203739,
-    "IconUrl": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisFate/icon.png"
+    "IconUrl": "https://raw.githubusercontent.com/ThePoyer/lilis-plugins/main/plugins/LilisFate/icon.png"
   },
   {
     "Author": "Lili",
@@ -43,14 +43,14 @@
     "LoadPriority": 0,
     "Punchline": "Undercuts your retainer listings without falling for bait prices.",
     "AcceptsFeedback": true,
-    "RepoUrl": "https://github.com/ThePoyer/LilisPlugins",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisAutoPinch/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisAutoPinch/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisAutoPinch/latest.zip",
+    "RepoUrl": "https://github.com/ThePoyer/lilis-plugins",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/ThePoyer/lilis-plugins/main/plugins/LilisAutoPinch/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/ThePoyer/lilis-plugins/main/plugins/LilisAutoPinch/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/ThePoyer/lilis-plugins/main/plugins/LilisAutoPinch/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
     "LastUpdate": 1794681311,
-    "IconUrl": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisAutoPinch/icon.png"
+    "IconUrl": "https://raw.githubusercontent.com/ThePoyer/lilis-plugins/main/plugins/LilisAutoPinch/icon.png"
   },
   {
     "Author": "Lili",
@@ -69,14 +69,14 @@
     "LoadPriority": 0,
     "Punchline": "On-off patches for the plugins Lili uses.",
     "AcceptsFeedback": true,
-    "RepoUrl": "https://github.com/ThePoyer/LilisPlugins",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisPatchOfAllTheThings/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisPatchOfAllTheThings/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisPatchOfAllTheThings/latest.zip",
+    "RepoUrl": "https://github.com/ThePoyer/lilis-plugins",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/ThePoyer/lilis-plugins/main/plugins/LilisPatchOfAllTheThings/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/ThePoyer/lilis-plugins/main/plugins/LilisPatchOfAllTheThings/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/ThePoyer/lilis-plugins/main/plugins/LilisPatchOfAllTheThings/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
     "LastUpdate": 1794681309,
-    "IconUrl": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisPatchOfAllTheThings/icon.png"
+    "IconUrl": "https://raw.githubusercontent.com/ThePoyer/lilis-plugins/main/plugins/LilisPatchOfAllTheThings/icon.png"
   },
   {
     "Author": "Lili",
@@ -96,13 +96,13 @@
     "LoadPriority": 0,
     "Punchline": "Small quality of life tricks for the game itself.",
     "AcceptsFeedback": true,
-    "RepoUrl": "https://github.com/ThePoyer/LilisPlugins",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisLittleTricks/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisLittleTricks/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisLittleTricks/latest.zip",
+    "RepoUrl": "https://github.com/ThePoyer/lilis-plugins",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/ThePoyer/lilis-plugins/main/plugins/LilisLittleTricks/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/ThePoyer/lilis-plugins/main/plugins/LilisLittleTricks/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/ThePoyer/lilis-plugins/main/plugins/LilisLittleTricks/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
     "LastUpdate": 1794759241,
-    "IconUrl": "https://raw.githubusercontent.com/ThePoyer/LilisPlugins/main/plugins/LilisLittleTricks/icon.png"
+    "IconUrl": "https://raw.githubusercontent.com/ThePoyer/lilis-plugins/main/plugins/LilisLittleTricks/icon.png"
   }
 ]
