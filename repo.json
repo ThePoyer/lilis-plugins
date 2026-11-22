@@ -1,9 +1,9 @@
 [
   {
     "Author": "Lili",
-    "Name": "Lili's Fate",
+    "Name": "Lili's Fate Farmer",
     "InternalName": "LilisFate",
-    "AssemblyVersion": "1.1.5.0",
+    "AssemblyVersion": "1.2.2.0",
     "Description": "Farms FATEs in the field zones of Shadowbringers, Endwalker and Dawntrail, and can spend your bicolor gemstones before the cap. Open with /llf. Needs vnavmesh, RotationSolver Reborn and BossModReborn.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -22,14 +22,14 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/ThePoyer/lilis-plugins/main/plugins/LilisFate/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1795203739,
+    "LastUpdate": 1795384626,
     "IconUrl": "https://raw.githubusercontent.com/ThePoyer/lilis-plugins/main/plugins/LilisFate/icon.png"
   },
   {
     "Author": "Lili",
     "Name": "Lili's Auto Pinch",
     "InternalName": "LilisAutoPinch",
-    "AssemblyVersion": "0.4.8.0",
+    "AssemblyVersion": "0.5.2.0",
     "Description": "Adds an Auto Pinch button to the retainer list and to the sell list. Skips bait listings (like 1 gil before 1,900). Optionally compares with the whole region through Universalis and lists at the average when the region is much cheaper. Open with /lla.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -49,14 +49,14 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/ThePoyer/lilis-plugins/main/plugins/LilisAutoPinch/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1794681311,
+    "LastUpdate": 1795384623,
     "IconUrl": "https://raw.githubusercontent.com/ThePoyer/lilis-plugins/main/plugins/LilisAutoPinch/icon.png"
   },
   {
     "Author": "Lili",
     "Name": "Lili's Patch of All the Things",
     "InternalName": "LilisPatchOfAllTheThings",
-    "AssemblyVersion": "0.0.0.7",
+    "AssemblyVersion": "0.0.0.10",
     "Description": "Each patch has its own toggle and starts off. Open with /llp.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -75,14 +75,14 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/ThePoyer/lilis-plugins/main/plugins/LilisPatchOfAllTheThings/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1794681309,
+    "LastUpdate": 1795384622,
     "IconUrl": "https://raw.githubusercontent.com/ThePoyer/lilis-plugins/main/plugins/LilisPatchOfAllTheThings/icon.png"
   },
   {
     "Author": "Lili",
     "Name": "Lili's Little Tricks",
     "InternalName": "LilisLittleTricks",
-    "AssemblyVersion": "0.0.0.12",
+    "AssemblyVersion": "0.0.0.22",
     "Description": "Each trick has its own toggle and starts off. Log in automatically when the game starts and after a disconnect, and damage numbers colored by type with everyone else's numbers in grey, smaller or hidden. Open with /llt.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -103,14 +103,14 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/ThePoyer/lilis-plugins/main/plugins/LilisLittleTricks/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1794876113,
+    "LastUpdate": 1795384620,
     "IconUrl": "https://raw.githubusercontent.com/ThePoyer/lilis-plugins/main/plugins/LilisLittleTricks/icon.png"
   },
   {
     "Author": "Lili",
     "Name": "Lili's Probe",
     "InternalName": "LilisProbe",
-    "AssemblyVersion": "0.5.0.0",
+    "AssemblyVersion": "0.6.2.0",
     "Description": "Records what your character does (position, state, target, FATE, level sync) to a local file. When something looks wrong, open /llpr, say what happened and when, and press Report. Then press Export and send the .zip. Read-only: it never acts in the game and never uses the network. Your character name, world and Windows user name are replaced in the export.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -129,7 +129,7 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/ThePoyer/lilis-plugins/main/plugins/LilisProbe/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1795100280,
+    "LastUpdate": 1795384625,
     "IconUrl": "https://raw.githubusercontent.com/ThePoyer/lilis-plugins/main/plugins/LilisProbe/icon.png"
   }
 ]
