@@ -3,7 +3,7 @@
     "Author": "Lili",
     "Name": "Lili's Fate Farmer",
     "InternalName": "LilisFate",
-    "AssemblyVersion": "1.2.3.0",
+    "AssemblyVersion": "1.2.4.0",
     "Description": "Farms FATEs in the field zones of Shadowbringers, Endwalker and Dawntrail, and can spend your bicolor gemstones before the cap. Open with /llf. Needs vnavmesh, RotationSolver Reborn and BossModReborn.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -22,7 +22,7 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/ThePoyer/lilis-plugins/main/plugins/LilisFate/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1795635214,
+    "LastUpdate": 1795635676,
     "IconUrl": "https://raw.githubusercontent.com/ThePoyer/lilis-plugins/main/plugins/LilisFate/icon.png"
   },
   {
