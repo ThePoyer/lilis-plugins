@@ -3,7 +3,7 @@
     "Author": "Lili",
     "Name": "Lili's Fate Farmer",
     "InternalName": "LilisFate",
-    "AssemblyVersion": "1.2.2.0",
+    "AssemblyVersion": "1.2.3.0",
     "Description": "Farms FATEs in the field zones of Shadowbringers, Endwalker and Dawntrail, and can spend your bicolor gemstones before the cap. Open with /llf. Needs vnavmesh, RotationSolver Reborn and BossModReborn.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -22,7 +22,7 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/ThePoyer/lilis-plugins/main/plugins/LilisFate/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1795384626,
+    "LastUpdate": 1795635214,
     "IconUrl": "https://raw.githubusercontent.com/ThePoyer/lilis-plugins/main/plugins/LilisFate/icon.png"
   },
   {
@@ -110,7 +110,7 @@
     "Author": "Lili",
     "Name": "Lili's Probe",
     "InternalName": "LilisProbe",
-    "AssemblyVersion": "0.6.2.0",
+    "AssemblyVersion": "0.6.3.0",
     "Description": "Records what your character does (position, state, target, FATE, level sync) to a local file. When something looks wrong, open /llpr, say what happened and when, and press Report. Then press Export and send the .zip. Read-only: it never acts in the game and never uses the network. Your character name, world and Windows user name are replaced in the export.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -129,7 +129,7 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/ThePoyer/lilis-plugins/main/plugins/LilisProbe/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1795384625,
+    "LastUpdate": 1795615498,
     "IconUrl": "https://raw.githubusercontent.com/ThePoyer/lilis-plugins/main/plugins/LilisProbe/icon.png"
   }
 ]
